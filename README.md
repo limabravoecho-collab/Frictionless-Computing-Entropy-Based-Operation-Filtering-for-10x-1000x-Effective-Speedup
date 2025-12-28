@@ -8,6 +8,8 @@
 
 Author notes: You will find some "non-standard" terms and language in this document. I also did my best to take care to code this properly, but I'm confident that you will understand what I am referring to. This is the best I could do. Thank you.
 
+Note on Project Status: This repository presents a speculative theoretical framework and research direction, not a complete or production-ready implementation. The ideas are intended to challenge conventional assumptions about computational efficiency, inspire new lines of inquiry, and serve as a rigorous intellectual exercise for systems researchers and performance engineers. No empirical benchmarks or full prototypes are provided at this stage. Contributions, critiques, and exploratory implementations are warmly welcomed.
+
 ---
 
 ## Abstract
