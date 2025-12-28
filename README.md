@@ -6,6 +6,8 @@
 **License:** Open Source  
 **Repository:** [UACM Framework](https://github.com/limabravoecho-collab/unified-attractor-complexity-model) | [Frictionless Computing](https://github.com/limabravoecho-collab/frictionless-computing)
 
+Author notes: You will find some "non-standard" terms and language in this document. I also did my best to take care to code this properly, but I'm confident that you will understand what I am referring to. This is the best I could do. Thank you.
+
 ---
 
 ## Abstract
